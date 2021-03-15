@@ -3,9 +3,7 @@ A Python library for performing concatenative synthesis tasks.
 
 ## Documentation
 
-The reference documentation is here:-
-
-http://pyconcat.readthedocs.io/en/latest/source/PyConcat.html
+The reference documentation is here: http://pyconcat.readthedocs.io/en/latest/source/PyConcat.html
 
 example.py shows an example of how to use it.
 
